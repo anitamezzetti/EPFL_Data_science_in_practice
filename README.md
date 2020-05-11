@@ -1,5 +1,5 @@
-# EPFL---Data-science-in-practice-
-This repository contains all notebooks done throughout the course Data science in practice at EPFL in Spring 2020.
+# EPFL Data science in practice 
+This repository contains all notebooks done throughout the course Data science in practice at EPFL (MGT-415) in Spring 2020.
 
 There are 4 folders: one for each problem set and one for the project.
 
