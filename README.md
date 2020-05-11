@@ -12,6 +12,8 @@ The project, whose name is The **Perfect Movie Recipe**, has the goal to analyse
 - Data Analysis
 - Classification and Regression (Prediction Models)
 
-For all the 4 works, you can find a HTML version of the final version.
+The project folder includes also the presentation's slides and the pdf of our report.
+
+For all the 4 works, you can find a HTML version of the final version. 
 
 Bye! :)
